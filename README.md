@@ -37,7 +37,11 @@ axios.get(baseURL)
 
 ## What can this application do?
 
-#### **Display** the to lists
+#### A typical card has the following format
+
+<img src = "https://github.com/sameerad2001/To_Do_List__server/blob/master/Demo/Demo2.jpg" alt = "Website Demo"/>
+
+#### **Display** the to-do lists
 
 <img src = "https://github.com/sameerad2001/To_Do_List__server/blob/master/Demo/Demo1.jpg" alt = "Website Demo"/>
 
@@ -48,10 +52,6 @@ axios.get(baseURL)
 #### **Edit** and **delete** a previously made to-do list
 
 <img src = "https://github.com/sameerad2001/To_Do_List__server/blob/master/Demo/Demo4.jpg" alt = "Website Demo"/>
-
-#### A typical card has the following format
-
-<img src = "https://github.com/sameerad2001/To_Do_List__server/blob/master/Demo/Demo2.jpg" alt = "Website Demo"/>
 
 <hr>
 
