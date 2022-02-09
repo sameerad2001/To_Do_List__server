@@ -49,6 +49,9 @@ axios.get(baseURL)
 
 <img src = "https://github.com/sameerad2001/To_Do_List__server/blob/master/Demo/Demo4.jpg" alt = "Website Demo"/>
 
+#### A typical card has the following format
+
+<img src = "https://github.com/sameerad2001/To_Do_List__server/blob/master/Demo/Demo2.jpg" alt = "Website Demo"/>
 
 <hr>
 
